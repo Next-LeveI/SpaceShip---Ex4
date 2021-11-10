@@ -15,5 +15,4 @@ This game based on a game that belongs to:
 * Adding 3 hearts in the left corner of the screen (when an enemy hits the player, 1 heart is removed).
 * Return the player to the starting point when an enemy hits the player.
 * Adding eudio to the game.
-* ![הורדה](https://user-images.githubusercontent.com/63556870/139678022-f6628912-5692-44d3-91ed-a7e4917907d0.png)
 </div>
